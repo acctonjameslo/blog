@@ -17,6 +17,7 @@
    14. [Kolourpaint](/blog/kolourpaint4/)
    15. [Communicty sonic](/blog/sonic_comm)
    16. [Sonic installation](/blog/sonic_install)
+   17. [Adobe Reader on Ubuntu 20.04](/blog/adobe)
   
 ## 學習專區 - 常用的指令
    1. [常用的sonic command指令](/blog/sonic_command/)
